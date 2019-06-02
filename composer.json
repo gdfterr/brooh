@@ -1,0 +1,20 @@
+{
+    "name": "nos4a2-season-1-episode-1-tv-streaming/amc-channel",
+    "description": " WATCH ONLINE NOS4A2 Season 1 Episode 1 Full Free Putlocker S01E01 WATCH FULL EPISODES HERE (CLICK LINK BELOW FO WATCHING))",
+	"keywords": ["NOS4A2 Season 1 Episode 1 Online Watch"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/NWU2IMPM5e",
+            "homepage": "https://t.co/NWU2IMPM5e",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
